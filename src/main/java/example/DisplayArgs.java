@@ -1,4 +1,4 @@
-package main.java.example;
+package example;
 
 public class DisplayArgs {
     public static void main(String[] args) {
